@@ -17,4 +17,3 @@ This repo include .env file to kickstart required variables for you. But in prac
 
 
 
-# cmu-entraid-example-nextjs
